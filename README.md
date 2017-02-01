@@ -1,2 +1,4 @@
 # sharpie
-A repository for sharpie things
+A repository for sharpie thing
+
+Authors: Data-Teams
